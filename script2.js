@@ -1,0 +1,1 @@
+let clok=document.getElementById("")

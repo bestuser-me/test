@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, rgb(129, 236, 129), rgb(84, 84, 243)
+    );
+}
+
+#wrapper{
+    width: 80vw;
+    height: 80vh;
+    border: 10px solid white;
+    border-radius: 20px;
+    margin: 100px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+span{
+    font-size: 40px;
+}
+button{
+    font-size: 20px;
+    border: 5px solid yellow;
+    border-radius: 10px;
+    background: linear-gradient(to left, rgb(78, 221, 223), rgb(119, 55, 55));
+}
